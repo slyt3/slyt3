@@ -10,4 +10,12 @@ skills:
   languages: Go, Python, Bash, TypeScript, C++
   cloud_infra: Kubernetes, Docker, PostgreSQL, Redis, Operators
   automation: Scripting, Deployment, Monitoring
+
+experience:
+  - title: Freelance Software Engineer
+    period: 2022 – Present
+    highlights:
+      - Built CI/CD pipelines with automated testing & security scans
+      - Developed high-concurrency workflows using Go & Bash
+      - Optimized cloud-native deployments on Kubernetes
 ```
