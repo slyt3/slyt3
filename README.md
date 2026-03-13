@@ -1,6 +1,5 @@
 ```yaml
 name: slyt3
-role: Go & Cloud Engineer
 location: Vilnius, Lithuania
 contact:
   email: mantas.sumin@gmail.com
@@ -11,11 +10,8 @@ skills:
   cloud_infra: Kubernetes, Docker, PostgreSQL, Redis, Operators
   automation: Scripting, Deployment, Monitoring
 
-experience:
-  - title: Freelance Software Engineer
-    period: 2022 – Present
-    highlights:
-      - Built CI/CD pipelines with automated testing & security scans
-      - Developed high-concurrency workflows using Go & Bash
-      - Optimized cloud-native deployments on Kubernetes
+bounty hunter:
+  - INFRA
+  - APi security
+  - web applications
 ```
