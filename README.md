@@ -12,6 +12,6 @@ skills:
 
 bounty hunter:
   - INFRA
-  - APi security
+  - API security
   - web applications
 ```
