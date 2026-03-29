@@ -19,9 +19,5 @@ experience:
   - high-concurrency pipelines
   - REST APIs & microservices
 
-open_source_contributor:
-  - acontext
-  - toolhive
-
 note: things work. until they don’t.
 ```
