@@ -1,5 +1,5 @@
 ```yaml
-name: slyt3
+name: Mantas aka slyt3
 focus: go / cloud-native systems
 
 location: Vilnius, Lithuania
